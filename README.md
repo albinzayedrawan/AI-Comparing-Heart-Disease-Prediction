@@ -2,8 +2,7 @@
 
 ## Introduction
 
-A Comparative Study of Three Intelligent Techniques for the
-Disease Prediction Domain
+A Spring 2024 project for the Artificial Intelligence course (COSC 442) where the performance measures of three artificial intelligence algorithms used for disease prediction will be compared: Artificial Neural Networks (ANN), Fuzzy-based logic, and Deep Learning.
 
 ---
 
